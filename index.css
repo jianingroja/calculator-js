@@ -1,0 +1,60 @@
+td,
+input,
+body {
+  border: 0px;
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
+input {
+  margin: 0.5px;
+}
+
+table {
+  display: block;
+  align-content: center;
+  background-color: black;
+  border-spacing: 0;
+  margin: auto auto;
+  width: fit-content;
+}
+td {
+  text-align: center;
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+input {
+  color: white;
+}
+
+#output {
+  width: 340px;
+  height: 85px;
+  background-color: black;
+  text-align: right;
+  font-size: 70px;
+  font-style: inherit;
+}
+
+.orangeButton {
+  font-size: 40px;
+  width: 100px;
+  height: 100px;
+  background-color: #ff9705;
+}
+.grayButton {
+  font-size: 40px;
+  width: 100px;
+  height: 100px;
+  background-color: #b3b0b0d2;
+}
+.darkGrayButton {
+  font-size: 40px;
+  width: 100px;
+  height: 100px;
+  background-color: #5e5b5b;
+}
+.longButton {
+  width: 200px;
+}
